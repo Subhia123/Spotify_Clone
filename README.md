@@ -37,6 +37,6 @@ Anyone can contribute to this repositry.
 - Have a read of the Pusher community code of conduct to help us maintain a safe and inclusive environment for the community and Pusher team
 
 ## Ready to make a contribution?
-If you’re working on an open issue, read the [CONTRIBUTING.MD](https://github.com/Subhia123/Spotify_Clone/blob/main/CONTRIBUTING.md) file in the repo to get specific guidelines on how to work on that repo. Ask to be assigned to that issue before you start working on it.
+If you’re working on an open issue, read the [CONTRIBUTING.md](https://github.com/Subhia123/Spotify_Clone/blob/main/CONTRIBUTING.md) file in the repo to get specific guidelines on how to work on that repo. Ask to be assigned to that issue before you start working on it.
 
 
