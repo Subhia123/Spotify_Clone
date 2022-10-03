@@ -1,7 +1,7 @@
 # Spotify_Clone
 
 Spotify clone is a music player build using HTML,CSS and Javascript. This music player will have all the features found in a typical music player. 
-You will be able to add, play, pause and seek songs that have been added. It helps an individual to create his own favorite playlist and listen to the songs at any time without any disturbance.
+You will be able to add, play, pause and seek songs that have been added. It helps an individual to create his own favourite playlist and listen to the songs at any time without any disturbance.
 The user can click the Forward play,Backward play and Pause button to change the songs.
 
 #images
@@ -37,6 +37,6 @@ Anyone can contribute to this repositry.
 - Have a read of the Pusher community code of conduct to help us maintain a safe and inclusive environment for the community and Pusher team
 
 ## Ready to make a contribution?
-If you’re working on an open issue, read the CONTRIBUTING.MD file in the repo to get specific guidelines on how to work on that repo. Ask to be assigned to that issue before you start working on it.
+If you’re working on an open issue, read the [CONTRIBUTING.md](https://github.com/Subhia123/Spotify_Clone/blob/main/CONTRIBUTING.md) file in the repo to get specific guidelines on how to work on that repo. Ask to be assigned to that issue before you start working on it.
 
 
